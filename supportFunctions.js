@@ -2,7 +2,7 @@
 // Support functions //
 ///////////////////////
 
-const version = "v2"
+const version = "v3"
 
 let testFunction = function () {
   console.log('testFunction5')
