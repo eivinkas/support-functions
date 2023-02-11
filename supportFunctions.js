@@ -3,6 +3,6 @@
 ///////////////////////
 
 let testFunction = function () {
-  console.log('testFunction')
+  console.log('testFunction2')
   console.log('Hello World')
 }
