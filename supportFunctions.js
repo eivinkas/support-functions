@@ -5,6 +5,6 @@
 const version = "v2"
 
 let testFunction = function () {
-  console.log('testFunction4')
+  console.log('testFunction5')
   console.log('Hello World')
 }
